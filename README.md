@@ -1,4 +1,4 @@
-# Submission Pertama: Menyelesaikan Permasalahan Human Resources Perusahaan Jaya Jaya Maju
+# Jaya Jaya Maju Company: Resolving Human Resources Issues
 
 ## Business Understanding
 
